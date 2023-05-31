@@ -1,2 +1,4 @@
 Mi nombre es Dan, soy matemático y estudio por gusto programación.
 Tengo 38 años y espero desarrollar lo suficiente mis habilidades para generar ingresos con la programación.
+
+Esto lo escribo para hacer la versión 2 practicando con GIT.
